@@ -1,7 +1,7 @@
 # Embed Kit: Embedded C Utility Library
 
 **Author:** Yogesh Vanjari  
-**GitHub:** [github.com/Mr-Yogesh01](https://github.com/Mr-Yogesh01)  
+**GitHub:** https://github.com/Mr-Yogesh01/EmbedKit_YogeshVanjari.git
 **Email:** vanjariyogesh531@gmail.com  
 
 ## Module Overview
